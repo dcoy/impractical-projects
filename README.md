@@ -6,12 +6,12 @@ This is my repo that contains the projects in the No Starch Press book [Impracti
 In order to execute the projects, change into the specific directories and create a virtual environment by running:
 
 ```shell
-python3 -m venv env
+python3 -m venv .venv
 ```
 
 Then:
 
 ```shell
-source env/bin/activate
+source .venv/bin/activate
 pip install -r requirements.txt # if it exists
 ```
