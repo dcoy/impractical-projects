@@ -1,0 +1,13 @@
+{
+  "python.venvFolders": [
+    "envs",
+    ".pyenv",
+    ".direnv",
+    ".venv",
+    ".env"
+  ],
+  "python.pythonPath": ".venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
